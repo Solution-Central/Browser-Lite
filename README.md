@@ -9,7 +9,7 @@ Requirements:
 2. PyQt ver 5.7 installed for Python 3.5.2.
 3. Qt 5.7 installed on the system.
 
-How to Execute;
+How to Execute:
 1. Set Environment path variable of Python 3.5.2.
 2. Open command console on your system.
 3. Type "python browserlite.py" and hit return.
